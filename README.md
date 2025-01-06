@@ -5,5 +5,7 @@ This repository is a collection of mini projects developed using C and C++. It s
 Who Can Use This?
 <br>
 Students: Perfect for academic projects or as supplementary learning material.
+<br>
 Beginners: Great for learning the fundamentals of C/C++ programming.
+<br>
 Enthusiasts: A playground for experimenting with ideas and enhancing programming skills.
