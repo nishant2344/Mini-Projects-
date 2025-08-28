@@ -22,6 +22,7 @@ Cyber-security Projects
 <br>
 Other Projects
 <br>
+<br>
 1. calculator.cpp
 
 2. career_recommendation.py
