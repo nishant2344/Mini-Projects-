@@ -40,6 +40,7 @@ Other Projects
 <br>
 🛡️ Cyber Security Projects
 <br>
+<br>
 GUI-Password-Checker.py
 A graphical tool to check password strength based on complexity rules.
 <br>
@@ -65,6 +66,7 @@ A Python script to scrape data from websites using BeautifulSoup.
 <br>
 <br>
 🛠️ Utility & Other Projects
+<br>
 <br>
 calculator.cpp
 A basic calculator implemented in C++ for performing arithmetic operations.
