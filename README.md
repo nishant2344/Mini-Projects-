@@ -63,6 +63,10 @@ user_authentication_hashlib_mysql.py
 Implements user authentication with hashed passwords stored in MySQL database.
 <br>
 <br>
+Fingerprint Analysis and Verification 
+This project develops a recognition system that preprocesses fingerprints, extracts minutiae points, and applies matching techniques for accurate authentication.
+<br>
+<br>
 web_scrape.py
 A Python script to scrape data from websites using BeautifulSoup.
 <br>
