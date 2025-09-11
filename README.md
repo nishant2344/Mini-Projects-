@@ -18,7 +18,7 @@ Cyber-security Projects
 
 5. user_authentication_hashlib_mysql.py
 
-6. Fingerprint Analysis and Verification
+6. Fingerprint_analysis_verification.py
 
 7. web_scrape.py
 <br>
@@ -63,7 +63,7 @@ user_authentication_hashlib_mysql.py:
 Implements user authentication with hashed passwords stored in MySQL database.
 <br>
 <br>
-Fingerprint Analysis and Verification:
+Fingerprint_analysis_verification.py:
 This project develops a recognition system that preprocesses fingerprints, extracts minutiae points, and applies matching techniques for accurate authentication.
 <br>
 <br>
