@@ -18,7 +18,9 @@ Cyber-security Projects
 
 5. user_authentication_hashlib_mysql.py
 
-6. web_scrape.py
+6. Fingerprint Analysis and Verification
+
+7. web_scrape.py
 <br>
 Other Projects
 <br>
