@@ -12,9 +12,9 @@ def connect_db():
     try:
         cnx = mysql.connector.connect(
             host="localhost",
-            user="root",        # <-- Change to your MySQL username
-            password="042905",  # <-- Change to your MySQL password
-            database="fingerprints_db"  # <-- Change to your DB name
+            user="username",        # <-- Change to your MySQL username
+            password="*****",  # <-- Change to your MySQL password
+            database="db_name"  # <-- Change to your DB name
         )
         return cnx
     except mysql.connector.Error as err:
@@ -257,3 +257,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FingerprintApp(root)
     root.mainloop()
+
